@@ -1,6 +1,6 @@
 # Deepfake-face-detection
 
-In this repository, I have worked on deepfake image detection using MTCNN and InceptionResnetV3.<br>
+In this repository, I have worked on deepfake image detection using MTCNN and InceptionResnetV2.<br>
 The links to the weights file and the google colab code has been provided in this repository.<br>
 
 Here, a frame extraction was performed on the training data from the Deepfake Detection Challenge from Kaggle. <br>
