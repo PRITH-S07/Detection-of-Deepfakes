@@ -10,3 +10,5 @@ Following this, I built the InceptionResnetV3 network and used the pre-trained I
 This model gave me a 99.73% training accuracy and a 93.58% validation accuracy.<br>
 
 The loss and accuracy graphs are given below:
+
+![yoyo](https://user-images.githubusercontent.com/58857629/139583511-bb6b113f-bc0f-4c7c-9bd6-e9584feb8989.png)
