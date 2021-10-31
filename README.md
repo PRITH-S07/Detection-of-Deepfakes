@@ -5,7 +5,7 @@ The links to the weights file and the google colab code has been provided in thi
 
 Here, a frame extraction was performed on the training data from the Deepfake Detection Challenge from Kaggle. <br>
 Then MTCNN was used for face extraction and each cropped frame was saved as an image based on the label.<br>
-Following this, I built the InceptionResnetV3 network and used the pre-trained Imagenet weights.
+Following this, I built the InceptionResnetV2 network and used the pre-trained Imagenet weights.
 
 This model gave me a 99.73% training accuracy and a 93.58% validation accuracy.<br>
 
