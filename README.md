@@ -12,3 +12,7 @@ This model gave me a 99.73% training accuracy and a 93.58% validation accuracy.<
 The loss and accuracy graphs are given below:
 
 ![yoyo](https://user-images.githubusercontent.com/58857629/139583625-0ad65768-ddda-46ff-897c-6e0792a1dc4b.JPG)
+
+<br>
+The output for every frame is a 2d vector which indicates how close each frame is to being a real or fake image.<br>
+This can help us decide whether the video as a whole is a fake or real.
