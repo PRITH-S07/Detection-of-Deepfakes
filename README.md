@@ -1,4 +1,4 @@
-# Deepfake-face-detection
+# Detection of Deepfakes
 
 In this repository, I have worked on deepfake image detection using MTCNN and InceptionResnetV2.<br>
 The links to the weights file and the google colab code has been provided in this repository.<br>
@@ -15,4 +15,7 @@ The loss and accuracy graphs are given below:
 
 <br>
 The output for every frame is a 2d vector which indicates how close each frame is to being a real or fake image.<br>
-This can help us decide whether the video as a whole is a fake or real.
+This can help us decide whether the video as a whole is a fake or real.<br>
+
+Some future areas to work on regarding this would be to include an audio file classification as well.<br>
+We could also look into ways to increase the accuracies along with displaying all the frames in the video, along with the audio and video analysis.<br>
